@@ -13,3 +13,17 @@ Neutralidade da Rede: A neutralidade da rede é o princípio de que os provedore
 
 3. Rede Neural Artificial (RNA)
    Uma Rede Neural Artificial é um modelo de aprendizado de máquina inspirado no funcionamento do cérebro humano. Consiste em camadas de neurônios artificiais interconectados, onde cada conexão tem um peso associado. As RNAs são usadas para tarefas como reconhecimento de padrões, processamento de linguagem natural e visão computacional.
+
+
+1 - Relação entre a LGPD e os Data Centers no Brasil:
+A Lei Geral de Proteção de Dados (LGPD) é a legislação brasileira que regula a coleta, armazenamento e processamento de dados pessoais. Os Data Centers desempenham um papel crucial na conformidade com a LGPD, pois são os locais onde muitos dados são armazenados e processados. Eles devem garantir medidas de segurança adequadas para proteger esses dados e também permitir que os titulares dos dados exerçam seus direitos, como acesso e exclusão de informações.
+
+2 - Formatos de arquivos de dados proprietários e abertos:
+Formatos de dados proprietários são desenvolvidos por empresas e tendem a ser fechados, o que significa que as especificações não são amplamente divulgadas. Por outro lado, formatos de dados abertos têm especificações públicas, permitindo que qualquer pessoa crie ferramentas para acessar ou manipular esses dados. Exemplos de formatos proprietários são os formatos da Microsoft, como o .docx. Formatos abertos incluem o PDF e o CSV.
+
+   - Exemplos de formatos:
+   - Proprietários: .docx (Microsoft Word), .psd (Adobe Photoshop)
+   - Abertos: .pdf (Portable Document Format), .csv (Comma-Separated Values)
+
+   - Implicações relacionadas a dados públicos:
+   Dados públicos podem ser acessados e usados por qualquer pessoa, o que tem implicações tanto positivas quanto negativas. Por um lado, facilitam a transparência governamental, pesquisa e inovação. No entanto, podem resultar em questões de privacidade se informações sensíveis forem expostas. É crucial encontrar um equilíbrio entre a acessibilidade dos dados públicos e a proteção da privacidade das pessoas envolvidas.
