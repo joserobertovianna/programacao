@@ -1,3 +1,4 @@
+trabalho 1:
 Nuvem: A computação em nuvem refere-se à prática de usar recursos de computação, como armazenamento, servidores e software, disponibilizados pela Internet. Em vez de executar programas ou armazenar dados localmente, eles são hospedados em servidores remotos e acessados através da internet. Isso oferece flexibilidade, escalabilidade e acessibilidade, permitindo que empresas e indivíduos acessem recursos de TI sem a necessidade de possuí-los fisicamente.
 
 Inteligência Artificial: A inteligência artificial é a simulação da inteligência humana por máquinas. Ela envolve a criação de algoritmos e sistemas que podem aprender, raciocinar, tomar decisões e realizar tarefas que normalmente requerem inteligência humana. Isso é alcançado por meio de técnicas como aprendizado de máquina, processamento de linguagem natural e visão computacional.
@@ -5,6 +6,7 @@ Inteligência Artificial: A inteligência artificial é a simulação da intelig
 Neutralidade da Rede: A neutralidade da rede é o princípio de que os provedores de serviços de internet (ISPs) devem tratar todo o tráfego na internet de forma igual, sem discriminar, bloquear ou dar prioridade a determinados tipos de conteúdo, aplicativos ou serviços. Isso significa que todos os dados na internet devem ser tratados da mesma maneira, independentemente de sua origem, destino ou conteúdo. Isso garante um ambiente aberto e igualitário para todos os usuários e serviços online.
 
 
+trabalho 2:
 1. Análise de crédito pode usar algoritmos?
    Sim, análises de crédito frequentemente utilizam algoritmos para avaliar a probabilidade de um indivíduo ou empresa pagar suas dívidas. Esses algoritmos levam em consideração uma variedade de dados, como histórico de crédito, renda, histórico de pagamento, entre outros, para determinar a viabilidade de conceder crédito.
 
@@ -15,6 +17,7 @@ Neutralidade da Rede: A neutralidade da rede é o princípio de que os provedore
    Uma Rede Neural Artificial é um modelo de aprendizado de máquina inspirado no funcionamento do cérebro humano. Consiste em camadas de neurônios artificiais interconectados, onde cada conexão tem um peso associado. As RNAs são usadas para tarefas como reconhecimento de padrões, processamento de linguagem natural e visão computacional.
 
 
+trabalho 3:
 1 - Relação entre a LGPD e os Data Centers no Brasil:
 A Lei Geral de Proteção de Dados (LGPD) é a legislação brasileira que regula a coleta, armazenamento e processamento de dados pessoais. Os Data Centers desempenham um papel crucial na conformidade com a LGPD, pois são os locais onde muitos dados são armazenados e processados. Eles devem garantir medidas de segurança adequadas para proteger esses dados e também permitir que os titulares dos dados exerçam seus direitos, como acesso e exclusão de informações.
 
