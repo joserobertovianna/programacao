@@ -30,3 +30,46 @@ Formatos de dados proprietários são desenvolvidos por empresas e tendem a ser 
 
    - Implicações relacionadas a dados públicos:
    Dados públicos podem ser acessados e usados por qualquer pessoa, o que tem implicações tanto positivas quanto negativas. Por um lado, facilitam a transparência governamental, pesquisa e inovação. No entanto, podem resultar em questões de privacidade se informações sensíveis forem expostas. É crucial encontrar um equilíbrio entre a acessibilidade dos dados públicos e a proteção da privacidade das pessoas envolvidas.
+
+
+
+trabalho 4:
+1. Python:
+   - Python é uma linguagem de programação de alto nível, conhecida por sua simplicidade e legibilidade.
+   - Ela é interpretada, o que significa que o código-fonte é executado diretamente, linha por linha, por um interpretador.
+   - Aqui está um código mínimo em Python que imprime "Hello, World!":
+
+   python
+   print("Hello, World!")
+   
+
+   Para executar este código, pode-se instalar ele no seu computador, salvar o código em um arquivo com extensão “.py” e, em seguida, usar o comando “python nome_do_arquivo.py” no terminal.
+
+2. JavaScript:
+   - JavaScript é uma linguagem de programação amplamente usada para desenvolvimento web e é interpretada pelo navegador do usuário.
+   - É uma linguagem de script orientada a objetos.
+   - Aqui está um código mínimo em JavaScript que também imprime "Hello, World!" no console do navegador:
+
+   javascript
+   console.log("Hello, World!");
+   
+
+   Para executar este código, pode-se adicioná-lo a uma página HTML e abrir essa página em um navegador. Em seguida, abra o console do navegador para ver a saída.
+
+3. C++:
+   - C++ é uma linguagem de programação de médio nível, conhecida por sua eficiência e capacidade de manipular recursos de baixo nível.
+   - É compilada, o que significa que o código é traduzido para código de máquina antes da execução.
+   - Aqui está um código mínimo em C++ que imprime "Hello, World!" na saída padrão:
+
+   cpp
+   #include <iostream>
+   
+   int main() {
+       std::cout << "Hello, World!" << std::endl;
+       return 0;
+   }
+   
+
+   Para executar este código, precisa de um compilador C++ instalado. Após compilar o código, você pode executar o programa resultante no terminal.
+
+Deve-se de substituir "nome_do_arquivo" pelo nome que você escolher ao salvar o arquivo em Python e C++.
