@@ -73,3 +73,36 @@ trabalho 4:
    Para executar este código, precisa de um compilador C++ instalado. Após compilar o código, você pode executar o programa resultante no terminal.
 
 Deve-se de substituir "nome_do_arquivo" pelo nome que você escolher ao salvar o arquivo em Python e C++.
+
+
+
+
+trabalho 5 (exercicios):
+
+1) Dominar os conceitos fundamentais da computação é vantajoso ao lidar com o Direito porque muitos casos envolvem tecnologia e questões digitais, como crimes cibernéticos, propriedade intelectual online e privacidade de dados. Compreender a tecnologia subjacente ajuda os profissionais do Direito a tomar decisões informadas.
+
+2) Na área da computação:
+a) Algoritmo: É uma sequência de instruções passo a passo para resolver um problema ou realizar uma tarefa.
+b) Nuvem: Refere-se a serviços de armazenamento e processamento de dados em servidores remotos acessados pela internet.
+c) Servidor: É um computador que fornece serviços, como armazenamento de dados ou hospedagem de sites, para outros computadores.
+d) Neutralidade da rede: Princípio que defende o tratamento igual de todos os dados na internet, sem discriminação por tipo de conteúdo, site ou origem.
+
+3) A palavra "Internet" é um termo genérico que engloba máquinas (servidores e dispositivos), cabos (infraestrutura de rede), programas (aplicações) e dados (informações). Cada componente desempenha um papel na funcionalidade da Internet, tornando-a uma rede complexa e interconectada.
+
+4) Os computadores foram inventados para automatizar tarefas, processar informações rapidamente e executar cálculos complexos. Embora precisem ser programados, sua versatilidade permite uma ampla gama de aplicações, desde cálculos científicos até automação de tarefas do cotidiano, tornando-os ferramentas poderosas para a sociedade.
+
+5) Uma rede neural artificial não pode ser a única responsável por decisões críticas, como médicas ou financeiras, devido à falta de transparência em seu funcionamento. Modelos de IA específicos, treinados e validados, podem ser usados para tomar decisões em certos casos, desde que sejam regulamentados e supervisionados para garantir responsabilidade e justiça.
+
+6) Um arquivo "binário" contém dados em um formato não legível diretamente pelo humano, enquanto um arquivo "de texto" contém texto legível que pode ser interpretado e editado facilmente.
+
+7) Um formato de arquivo proprietário é controlado por uma única empresa e geralmente requer software específico para acessá-lo. Um formato de arquivo aberto é acessível publicamente, não possui restrições de licença e é compatível com várias aplicações. No contexto de dados públicos, formatos abertos promovem a acessibilidade e a interoperabilidade.
+
+8) Um protocolo de comunicação aberto é acessível publicamente, sem restrições de uso, o que promove a inovação e a concorrência. Um protocolo proprietário é controlado por uma entidade específica e pode limitar a interoperabilidade, favorecendo interesses comerciais da empresa que o detém.
+
+9) a) Um sistema operacional é um software que gerencia recursos e fornece uma interface entre o usuário, os programas do computador e os componentes físicos, como CPU e memória.
+b) Não, existem vários sistemas operacionais disponíveis, como Windows, macOS, Linux, iOS, entre outros.
+c) A venda de computadores com um sistema operacional pré-instalado pode ser considerada "venda casada" se não houver opção clara para o consumidor escolher um sistema operacional diferente ou optar por não adquiri-lo.
+
+10) Sobre a LGPD:
+a) A LGPD se aplica a empresas que processam dados pessoais de indivíduos brasileiros, independentemente de onde seus datacenters estejam localizados. Isso significa que datacenters em países estrangeiros podem estar sujeitos à LGPD se lidarem com dados pessoais brasileiros.
+b) A eficácia dos servidores de aplicação em relação ao conteúdo em desacordo com as regras de comunidade e conteúdo difamatório pode variar. A moderação de conteúdo é um desafio contínuo para plataformas online, e sua adequação depende das políticas e esforços de cada plataforma para cumprir as normas e regulamentações aplicáveis.
